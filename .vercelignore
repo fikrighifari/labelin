@@ -1,0 +1,7 @@
+.checks
+node_modules
+.git
+.env.local
+.env.*.local
+CLOUD-SETUP.local.md
+uploads/1795058726994_dvoti5vmc.png
